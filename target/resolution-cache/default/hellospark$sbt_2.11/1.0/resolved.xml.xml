@@ -4,7 +4,7 @@
 		module="hellospark$sbt_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20160519001223"
+		publication="20160520010449"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>
